@@ -1,4 +1,4 @@
-# cypress-demo
+# cypress-demo-2
 
 This file represents a demo for the usage of cypress on the [test website](https://passionate.io/)
 
